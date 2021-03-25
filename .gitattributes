@@ -1,0 +1,6 @@
+# Linguist overrides
+*.docx linguist-detectable=true
+*.docx linguist-vendored=false
+*.docx linguist-generated=false
+*.docx linguist-documentation=false
+*.docx linguist-detectable=true
