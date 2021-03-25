@@ -1,6 +1,6 @@
 # Linguist overrides
-*.docx linguist-detectable=true
-*.docx linguist-vendored=false
-*.docx linguist-generated=false
-*.docx linguist-documentation=false
-*.docx linguist-detectable=true
+*.sql linguist-detectable=true
+*.sql linguist-vendored=false
+*.sql linguist-generated=false
+*.sql linguist-documentation=false
+*.sql linguist-detectable=true
